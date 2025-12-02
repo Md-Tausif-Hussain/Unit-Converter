@@ -17,13 +17,13 @@ This Unit Converter is a C-based console application designed to perform quick a
    Convert Ounces to Pounds.                  
    Convert Grams to Pounds.  
 
-⚪ Possible Enhancements
-   You may extend the application with:
-   Bidirectional currency conversion
-   Additional units (length, volume, speed, time)
-   Input validation and error handling
-   Dynamic currency conversion using APIs
-   Looping menu to allow multiple conversions
+⚪ Possible Enhancements                                                                                 
+   You may extend the application with:                                                                
+   Bidirectional currency conversion                                              
+   Additional units (length, volume, speed, time)                              
+   Input validation and error handling                     
+   Dynamic currency conversion using APIs                             
+   Looping menu to allow multiple conversions                                        
 
 ⚪ Contributing:                                                                                                     
    Contributions are welcome! Feel free to open issues or create pull requests for any improvements or new features. Please make sure to follow the project's coding standards and guidelines.
